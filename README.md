@@ -15,7 +15,7 @@ The project consists of the following main folders:
   - `main.py`
 - **test_images**: Should contain the images to be tested (each image as its original and fake copy).
 - **output_images**: The directory where the images resulting from forgery detection will be placed.
-- **image_dataset**: Contains some sample images to test.
+- **image_dataset**: Contains some sample images to test. Link - https://drive.google.com/drive/folders/1ooKQs8AJNrST8mVmNLndbsaYcKGsuCL3?usp=sharing
 
 ## How to Test an Image
 
