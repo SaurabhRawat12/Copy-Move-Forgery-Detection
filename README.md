@@ -58,4 +58,8 @@ pip install -r requirements.txt
 
 Feel free to fork this repository, create branches, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+## Acknowledgements
+
+Thanks to all contributors and those who provided datasets for testing and training.
+
 ---
